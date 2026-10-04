@@ -3,11 +3,11 @@
     "id": "circlestrat",
     "restype": "res_pack",
     "name": "圆启",
-    "description": "以标志性圆形图标奠定简约现代基调，搭配精心调配的缤纷多彩配色，让桌面风格焕然一新！告别棱角与单调，享受圆润视觉带来的舒适感与多彩碰撞带来的无限活力。",
+    "description": "以标志性圆形图标奠定简约现代基调，搭配精心调配的缤纷多彩配色，让桌面风格焕然一新！告别棱角与单调，享受圆润视觉带来的舒适感与多彩碰撞带来的无限活力。\n欢迎加入小果冻手环交流群：895849620",
     "preview": [
       "media/画板 62.png"
     ],
-    "icon": "media/画板 52.png",
+    "icon": "media/icon.png",
     "cover": "media/画板 53.png",
     "author": [
       {
@@ -32,6 +32,16 @@
     "xmb10p": {
       "version": "1.0.0",
       "file_name": "downloads/circlestrat.crpack",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/circlestrat-xmb11.crpack",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/circlestrat-xmb11.crpack",
       "versionCode": 1
     }
   },
